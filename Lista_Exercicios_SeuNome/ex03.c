@@ -20,7 +20,7 @@ int main(void)
         primo = 0;
 
     /* basta testar divisores ate a raiz quadrada de n */
-    for (int i = 2; i * i <= n && primo; i++) {
+    for (long long i = 2; i * i <= n && primo; i++) {
         if (n % i == 0)
             primo = 0;
     }
