@@ -1,5 +1,5 @@
 /*
- * Aluno: SEU NOME
+ * Aluno: Thiago Freitas de Lima
  * Exercício: 28
  * Descrição: Lê numeros.txt (um inteiro por linha) e exibe a soma de todos.
  * Data: 24/11/2026

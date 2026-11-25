@@ -1,5 +1,5 @@
 /*
- * Aluno: SEU NOME
+ * Aluno: Thiago Freitas de Lima
  * Exercício: 42
  * Descrição: Declara x=10 e um ponteiro p para x; imprime x usando o ponteiro.
  * Data: 24/11/2026

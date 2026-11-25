@@ -1,5 +1,5 @@
 /*
- * Aluno: SEU NOME
+ * Aluno: Thiago Freitas de Lima
  * Exercício: 13
  * Descrição: Lê 10 números e uma chave; informa se a chave foi encontrada e em qual índice.
  * Data: 24/11/2026

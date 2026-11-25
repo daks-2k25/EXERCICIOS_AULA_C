@@ -1,5 +1,5 @@
 /*
- * Aluno: SEU NOME
+ * Aluno: Thiago Freitas de Lima
  * Exercício: 35
  * Descrição: Função validarCPF que verifica apenas o formato (11 dígitos ou 000.000.000-00).
  * Data: 24/11/2026

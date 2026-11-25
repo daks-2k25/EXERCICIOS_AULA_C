@@ -1,5 +1,5 @@
 /*
- * Aluno: SEU NOME
+ * Aluno: Thiago Freitas de Lima
  * Exercício: 36
  * Descrição: Struct Aluno e função mediaTurma que calcula a média das notas.
  * Data: 24/11/2026

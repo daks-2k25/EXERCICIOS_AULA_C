@@ -1,5 +1,5 @@
 /*
- * Aluno: SEU NOME
+ * Aluno: Thiago Freitas de Lima
  * Exercício: 27
  * Descrição: Lê funcionario.csv, processa cada linha e exibe os dados formatados.
  * Data: 24/11/2026

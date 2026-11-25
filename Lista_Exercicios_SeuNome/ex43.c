@@ -1,5 +1,5 @@
 /*
- * Aluno: SEU NOME
+ * Aluno: Thiago Freitas de Lima
  * Exercício: 43
  * Descrição: Usa o ponteiro p para alterar x para 20 e imprime.
  * Data: 24/11/2026

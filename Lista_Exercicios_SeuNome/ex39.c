@@ -1,5 +1,5 @@
 /*
- * Aluno: SEU NOME
+ * Aluno: Thiago Freitas de Lima
  * Exercício: 39
  * Descrição: Função ordenar(int arr[], int n) com Bubble Sort.
  * Data: 24/11/2026

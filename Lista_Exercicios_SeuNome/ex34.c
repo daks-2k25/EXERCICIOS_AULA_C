@@ -1,5 +1,5 @@
 /*
- * Aluno: SEU NOME
+ * Aluno: Thiago Freitas de Lima
  * Exercício: 34
  * Descrição: Fatorial recursivo, com comparação com a versão iterativa.
  * Data: 24/11/2026

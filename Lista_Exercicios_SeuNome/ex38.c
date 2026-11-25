@@ -1,5 +1,5 @@
 /*
- * Aluno: SEU NOME
+ * Aluno: Thiago Freitas de Lima
  * Exercício: 38
  * Descrição: main que usa soma e dobrar separadas em util.c e util.h.
  * Data: 24/11/2026

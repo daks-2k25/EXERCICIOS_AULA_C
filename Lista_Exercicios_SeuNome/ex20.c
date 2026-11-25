@@ -1,5 +1,5 @@
 /*
- * Aluno: SEU NOME
+ * Aluno: Thiago Freitas de Lima
  * Exercício: 20
  * Descrição: Aloca dinamicamente (malloc) um array de N inteiros, preenche e imprime.
  * Data: 24/11/2026

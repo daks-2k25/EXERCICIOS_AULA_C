@@ -1,5 +1,5 @@
 /*
- * Aluno: SEU NOME
+ * Aluno: Thiago Freitas de Lima
  * Exercício: 26
  * Descrição: Lê nome, idade e salário de um funcionário e grava em funcionario.csv.
  * Data: 24/11/2026

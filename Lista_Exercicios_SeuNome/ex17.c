@@ -1,5 +1,5 @@
 /*
- * Aluno: SEU NOME
+ * Aluno: Thiago Freitas de Lima
  * Exercício: 17
  * Descrição: Lê 5 nomes de cidades em char nomes[5][50] e imprime a lista.
  * Data: 24/11/2026

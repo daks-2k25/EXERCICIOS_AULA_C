@@ -1,5 +1,5 @@
 /*
- * Aluno: SEU NOME
+ * Aluno: Thiago Freitas de Lima
  * Exercício: 49
  * Descrição: Cria com malloc um array de N inteiros, preenche, imprime e libera a memória.
  * Data: 24/11/2026

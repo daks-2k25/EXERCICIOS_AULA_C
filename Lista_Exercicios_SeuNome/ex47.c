@@ -1,5 +1,5 @@
 /*
- * Aluno: SEU NOME
+ * Aluno: Thiago Freitas de Lima
  * Exercício: 47
  * Descrição: Soma os elementos de um array de 5 inteiros com aritmética de ponteiros.
  * Data: 24/11/2026

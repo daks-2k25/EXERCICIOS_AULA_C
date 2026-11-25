@@ -1,5 +1,5 @@
 /*
- * Aluno: SEU NOME
+ * Aluno: Thiago Freitas de Lima
  * Exercício: 45
  * Descrição: Função troca(int *a, int *b) que troca os valores de dois inteiros.
  * Data: 24/11/2026

@@ -1,5 +1,5 @@
 /*
- * Aluno: SEU NOME
+ * Aluno: Thiago Freitas de Lima
  * Exercício: 11
  * Descrição: Preenche um array de 10 posições com números aleatórios (rand) e imprime.
  * Data: 24/11/2026

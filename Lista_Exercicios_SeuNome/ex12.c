@@ -1,5 +1,5 @@
 /*
- * Aluno: SEU NOME
+ * Aluno: Thiago Freitas de Lima
  * Exercício: 12
  * Descrição: Lê dois arrays de 5 elementos e gera um terceiro com a soma elemento a elemento.
  * Data: 24/11/2026

@@ -1,5 +1,5 @@
 /*
- * Aluno: SEU NOME
+ * Aluno: Thiago Freitas de Lima
  * Exercício: 10
  * Descrição: Imprime os N primeiros termos de Fibonacci com while e compara com a versão for.
  * Data: 24/11/2026

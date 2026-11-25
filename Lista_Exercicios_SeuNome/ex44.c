@@ -1,5 +1,5 @@
 /*
- * Aluno: SEU NOME
+ * Aluno: Thiago Freitas de Lima
  * Exercício: 44
  * Descrição: Percorre um array de inteiros com um ponteiro e imprime os elementos.
  * Data: 24/11/2026

@@ -1,5 +1,5 @@
 /*
- * Aluno: SEU NOME
+ * Aluno: Thiago Freitas de Lima
  * Exercício: 02
  * Descrição: Lê a idade de 10 pessoas e calcula a média usando for.
  * Data: 24/11/2026

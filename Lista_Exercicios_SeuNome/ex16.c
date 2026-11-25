@@ -1,5 +1,5 @@
 /*
- * Aluno: SEU NOME
+ * Aluno: Thiago Freitas de Lima
  * Exercício: 16
  * Descrição: Lê uma matriz 3x3 e calcula a soma da diagonal principal.
  * Data: 24/11/2026

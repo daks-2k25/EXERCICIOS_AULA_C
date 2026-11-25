@@ -1,5 +1,5 @@
 /*
- * Aluno: SEU NOME
+ * Aluno: Thiago Freitas de Lima
  * Exercício: 03
  * Descrição: Lê um número e informa se ele é primo (laço for e flag).
  * Data: 24/11/2026

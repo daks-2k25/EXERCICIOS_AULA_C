@@ -1,5 +1,5 @@
 /*
- * Aluno: SEU NOME
+ * Aluno: Thiago Freitas de Lima
  * Exercício: 08
  * Descrição: Desenha um retângulo de asteriscos com altura e largura informadas (for aninhado).
  * Data: 24/11/2026

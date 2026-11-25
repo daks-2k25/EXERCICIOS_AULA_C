@@ -1,5 +1,5 @@
 /*
- * Aluno: SEU NOME
+ * Aluno: Thiago Freitas de Lima
  * Exercício: 29
  * Descrição: Copia o conteúdo de um arquivo de origem para um arquivo de destino.
  * Data: 24/11/2026

@@ -1,5 +1,5 @@
 /*
- * Aluno: SEU NOME
+ * Aluno: Thiago Freitas de Lima
  * Exercício: 21
  * Descrição: Escreve a string "Primeira linha de um arquivo." no arquivo teste.txt.
  * Data: 24/11/2026

@@ -1,5 +1,5 @@
 /*
- * Aluno: SEU NOME
+ * Aluno: Thiago Freitas de Lima
  * Exercício: 46
  * Descrição: Struct Pessoa e função inicializar que modifica a struct via ponteiro.
  * Data: 24/11/2026

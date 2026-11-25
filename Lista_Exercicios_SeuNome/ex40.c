@@ -1,5 +1,5 @@
 /*
- * Aluno: SEU NOME
+ * Aluno: Thiago Freitas de Lima
  * Exercício: 40
  * Descrição: Função buscar(int arr[], int n, int chave) que retorna o índice ou -1.
  * Data: 24/11/2026

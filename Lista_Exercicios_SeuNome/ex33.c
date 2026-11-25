@@ -1,5 +1,5 @@
 /*
- * Aluno: SEU NOME
+ * Aluno: Thiago Freitas de Lima
  * Exercício: 33
  * Descrição: Função que calcula o fatorial de N com laço for.
  * Data: 24/11/2026

@@ -1,5 +1,5 @@
 /*
- * Aluno: SEU NOME
+ * Aluno: Thiago Freitas de Lima
  * Exercício: 06
  * Descrição: Pede um número positivo e repete a leitura enquanto for inválido (while).
  * Data: 24/11/2026
