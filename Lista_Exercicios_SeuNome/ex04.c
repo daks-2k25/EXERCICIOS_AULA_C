@@ -2,7 +2,7 @@
  * Aluno: Thiago Freitas de Lima
  * Exercício: 04
  * Descrição: Calculadora com menu que repete até o usuário escolher Sair (do-while).
- * Data: 24/11/2026
+ * Data: 14/11/2026
  */
 #include <stdio.h>
 

@@ -2,7 +2,7 @@
  * Aluno: Thiago Freitas de Lima
  * Exercício: 24
  * Descrição: Lê nomes.txt e mostra quantos nomes têm mais de 5 caracteres.
- * Data: 24/11/2026
+ * Data: 19/11/2026
  */
 #include <stdio.h>
 #include <string.h>

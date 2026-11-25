@@ -2,7 +2,7 @@
  * Aluno: Thiago Freitas de Lima
  * Exercício: 16
  * Descrição: Lê uma matriz 3x3 e calcula a soma da diagonal principal.
- * Data: 24/11/2026
+ * Data: 17/11/2026
  */
 #include <stdio.h>
 

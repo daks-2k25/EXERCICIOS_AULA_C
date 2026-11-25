@@ -2,7 +2,7 @@
  * Aluno: Thiago Freitas de Lima
  * Exercício: 50
  * Descrição: Array de ponteiros para funções (soma, sub, mult, div); um índice escolhe a operação.
- * Data: 24/11/2026
+ * Data: 25/11/2026
  */
 #include <stdio.h>
 

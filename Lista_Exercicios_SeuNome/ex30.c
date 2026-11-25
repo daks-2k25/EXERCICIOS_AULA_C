@@ -2,7 +2,7 @@
  * Aluno: Thiago Freitas de Lima
  * Exercício: 30
  * Descrição: Menu (do-while) para inserir dados em dados.txt e exibir todos os dados.
- * Data: 24/11/2026
+ * Data: 20/11/2026
  */
 #include <stdio.h>
 #include <string.h>

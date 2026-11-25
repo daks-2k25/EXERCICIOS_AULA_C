@@ -2,7 +2,7 @@
  * Aluno: Thiago Freitas de Lima
  * Exercício: 33
  * Descrição: Função que calcula o fatorial de N com laço for.
- * Data: 24/11/2026
+ * Data: 21/11/2026
  */
 #include <stdio.h>
 

@@ -2,7 +2,7 @@
  * Aluno: Thiago Freitas de Lima
  * Exercício: 42
  * Descrição: Declara x=10 e um ponteiro p para x; imprime x usando o ponteiro.
- * Data: 24/11/2026
+ * Data: 23/11/2026
  */
 #include <stdio.h>
 

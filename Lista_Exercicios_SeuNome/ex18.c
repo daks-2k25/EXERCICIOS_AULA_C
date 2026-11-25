@@ -2,7 +2,7 @@
  * Aluno: Thiago Freitas de Lima
  * Exercício: 18
  * Descrição: Copia um array para outro sem usar funções de biblioteca.
- * Data: 24/11/2026
+ * Data: 18/11/2026
  */
 #include <stdio.h>
 

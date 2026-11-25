@@ -2,7 +2,7 @@
  * Aluno: Thiago Freitas de Lima
  * Exercício: 17
  * Descrição: Lê 5 nomes de cidades em char nomes[5][50] e imprime a lista.
- * Data: 24/11/2026
+ * Data: 17/11/2026
  */
 #include <stdio.h>
 #include <string.h>

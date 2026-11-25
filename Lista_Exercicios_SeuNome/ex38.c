@@ -2,7 +2,7 @@
  * Aluno: Thiago Freitas de Lima
  * Exercício: 38
  * Descrição: main que usa soma e dobrar separadas em util.c e util.h.
- * Data: 24/11/2026
+ * Data: 22/11/2026
  */
 #include <stdio.h>
 #include "util.h"

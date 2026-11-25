@@ -2,7 +2,7 @@
  * Aluno: Thiago Freitas de Lima
  * Exercício: 37
  * Descrição: Função dobrar(int *x) que dobra o valor da variável passada por ponteiro.
- * Data: 24/11/2026
+ * Data: 22/11/2026
  */
 #include <stdio.h>
 

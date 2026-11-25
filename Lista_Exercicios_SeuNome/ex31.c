@@ -2,7 +2,7 @@
  * Aluno: Thiago Freitas de Lima
  * Exercício: 31
  * Descrição: Função soma(int a, int b) chamada no main com dois números lidos.
- * Data: 24/11/2026
+ * Data: 21/11/2026
  */
 #include <stdio.h>
 

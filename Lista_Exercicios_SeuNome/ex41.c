@@ -2,7 +2,7 @@
  * Aluno: Thiago Freitas de Lima
  * Exercício: 41
  * Descrição: Explica o que é um ponteiro e a diferença entre *p e &variavel (resposta nos comentários, com demonstração).
- * Data: 24/11/2026
+ * Data: 23/11/2026
  */
 #include <stdio.h>
 

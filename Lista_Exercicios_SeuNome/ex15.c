@@ -2,7 +2,7 @@
  * Aluno: Thiago Freitas de Lima
  * Exercício: 15
  * Descrição: Lê uma matriz 2x3 e guarda a soma de cada linha em um array de 2 posições.
- * Data: 24/11/2026
+ * Data: 17/11/2026
  */
 #include <stdio.h>
 

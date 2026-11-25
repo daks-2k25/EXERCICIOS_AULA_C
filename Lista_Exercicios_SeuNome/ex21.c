@@ -2,7 +2,7 @@
  * Aluno: Thiago Freitas de Lima
  * Exercício: 21
  * Descrição: Escreve a string "Primeira linha de um arquivo." no arquivo teste.txt.
- * Data: 24/11/2026
+ * Data: 18/11/2026
  */
 #include <stdio.h>
 

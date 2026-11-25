@@ -2,7 +2,7 @@
  * Aluno: Thiago Freitas de Lima
  * Exercício: 48
  * Descrição: Ponteiro para ponteiro: imprime x usando q (q aponta para p, p aponta para x).
- * Data: 24/11/2026
+ * Data: 25/11/2026
  */
 #include <stdio.h>
 

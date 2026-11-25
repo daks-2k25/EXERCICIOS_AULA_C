@@ -2,7 +2,7 @@
  * Aluno: Thiago Freitas de Lima
  * Exercício: 05
  * Descrição: Imprime os números de 10 a 1 com while e depois com for.
- * Data: 24/11/2026
+ * Data: 14/11/2026
  */
 #include <stdio.h>
 

@@ -2,7 +2,7 @@
  * Aluno: Thiago Freitas de Lima
  * Exercício: 26
  * Descrição: Lê nome, idade e salário de um funcionário e grava em funcionario.csv.
- * Data: 24/11/2026
+ * Data: 20/11/2026
  */
 #include <stdio.h>
 #include <string.h>

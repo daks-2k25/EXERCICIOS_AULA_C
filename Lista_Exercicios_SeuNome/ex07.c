@@ -2,7 +2,7 @@
  * Aluno: Thiago Freitas de Lima
  * Exercício: 07
  * Descrição: Imprime as potências de 2 enquanto o valor for menor que 1000 (for).
- * Data: 24/11/2026
+ * Data: 15/11/2026
  */
 #include <stdio.h>
 

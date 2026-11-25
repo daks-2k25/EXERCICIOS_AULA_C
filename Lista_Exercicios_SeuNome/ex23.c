@@ -2,7 +2,7 @@
  * Aluno: Thiago Freitas de Lima
  * Exercício: 23
  * Descrição: Lê 5 nomes e os grava em nomes.txt, um por linha.
- * Data: 24/11/2026
+ * Data: 19/11/2026
  */
 #include <stdio.h>
 #include <string.h>

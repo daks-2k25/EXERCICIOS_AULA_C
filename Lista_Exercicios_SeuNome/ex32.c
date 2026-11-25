@@ -2,7 +2,7 @@
  * Aluno: Thiago Freitas de Lima
  * Exercício: 32
  * Descrição: Função exibeMensagem() que imprime Bem-vindo ao sistema!
- * Data: 24/11/2026
+ * Data: 21/11/2026
  */
 #include <stdio.h>
 

@@ -2,7 +2,7 @@
  * Aluno: Thiago Freitas de Lima
  * Exercício: 11
  * Descrição: Preenche um array de 10 posições com números aleatórios (rand) e imprime.
- * Data: 24/11/2026
+ * Data: 16/11/2026
  */
 #include <stdio.h>
 #include <stdlib.h>

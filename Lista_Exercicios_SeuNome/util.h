@@ -2,7 +2,7 @@
  * Aluno: Thiago Freitas de Lima
  * Exercício: 38
  * Descrição: Declarações das funções utilitárias soma e dobrar.
- * Data: 24/11/2026
+ * Data: 22/11/2026
  */
 #ifndef UTIL_H
 #define UTIL_H

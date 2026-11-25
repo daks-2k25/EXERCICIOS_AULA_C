@@ -2,7 +2,7 @@
  * Aluno: Thiago Freitas de Lima
  * Exercício: 09
  * Descrição: Desenha um triângulo retângulo de asteriscos com a base informada.
- * Data: 24/11/2026
+ * Data: 15/11/2026
  */
 #include <stdio.h>
 

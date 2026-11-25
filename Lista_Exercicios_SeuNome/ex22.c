@@ -2,7 +2,7 @@
  * Aluno: Thiago Freitas de Lima
  * Exercício: 22
  * Descrição: Lê o arquivo teste.txt e exibe o conteúdo no console.
- * Data: 24/11/2026
+ * Data: 19/11/2026
  */
 #include <stdio.h>
 

@@ -2,7 +2,7 @@
  * Aluno: Thiago Freitas de Lima
  * Exercício: 19
  * Descrição: Lê 15 números (0 a 9) e imprime a frequência de cada um.
- * Data: 24/11/2026
+ * Data: 18/11/2026
  */
 #include <stdio.h>
 

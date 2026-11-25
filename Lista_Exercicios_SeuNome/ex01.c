@@ -2,7 +2,7 @@
  * Aluno: Thiago Freitas de Lima
  * Exercício: 01
  * Descrição: Lê um número N e calcula a soma de 1 a N com um laço for.
- * Data: 24/11/2026
+ * Data: 14/11/2026
  */
 #include <stdio.h>
 

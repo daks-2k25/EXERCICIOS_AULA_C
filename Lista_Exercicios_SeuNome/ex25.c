@@ -2,7 +2,7 @@
  * Aluno: Thiago Freitas de Lima
  * Exercício: 25
  * Descrição: Versão do ex23 que anexa novos nomes ao final de nomes.txt sem sobrescrever.
- * Data: 24/11/2026
+ * Data: 19/11/2026
  */
 #include <stdio.h>
 #include <string.h>
